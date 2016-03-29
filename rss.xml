@@ -2,14 +2,20 @@
     <channel>
         <title><![CDATA[Filmmaker]]></title>
         <description><![CDATA[Filmmaker]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/leviwilder/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 29 Mar 2016 17:03:57 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Tue, 29 Mar 2016 17:18:47 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/leviwilder/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <link>https://thegrid.ai/leviwilder/8204d4f6-ee5e-4077-b393-834e2901220c/index.html</link>
+            <guid isPermaLink="false">8204d4f6-ee5e-4077-b393-834e2901220c</guid>
+            <pubDate>Tue, 29 Mar 2016 17:18:46 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/5a7fbce2-54e7-45cd-835f-f05ec28725ab.jpg" alt="" title="">]]></description>
-            <link>undefined783ac4f3-f692-4e5c-a2a9-a64d909b79d5/index.html</link>
+            <link>https://thegrid.ai/leviwilder/783ac4f3-f692-4e5c-a2a9-a64d909b79d5/index.html</link>
             <guid isPermaLink="false">783ac4f3-f692-4e5c-a2a9-a64d909b79d5</guid>
             <pubDate>Tue, 29 Mar 2016 17:03:46 GMT</pubDate>
         </item>
