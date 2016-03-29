@@ -23,6 +23,6 @@ color:
     - '#fcb78f'
   brandStrength: 0.7361981319263577
   lightness: 0.6664778916165233
-  saturation: 0.7177277714945376
-  rhythmicContrast: 0.8130882401019335
+  saturation: 0
+  rhythmicContrast: 1
 purpose: []
