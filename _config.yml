@@ -17,11 +17,11 @@ color:
   brandStrength: 1
   lightness: 0.3595745
   brandColors:
-    - '#0D0E0C'
-    - '#5B5D54'
-    - '#F2F2E9'
-    - '#9A9C90'
-    - '#FCFA6D'
+    - '#919191'
+    - '#393939'
+    - '#EAEAEA'
+    - '#6E6E6E'
+    - '#B4B4B4'
   rhythmicContrast: 0.819149
 cta:
   bucket: null
@@ -31,8 +31,8 @@ analytics:
   twitter: null
   google: null
   facebook: null
-name: Levi Wilder - Writer/ Director/ Editor - Filmmaker
 favicon: null
+name: Levi Wilder - Writer/ Director/ Editor - Filmmaker
 opengraph:
   image: null
   type: null
