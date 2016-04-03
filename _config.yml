@@ -6,22 +6,22 @@ collections:
       number: 15
       paginate: true
       navigable: true
+    permalink:
+      path: '/:title/'
     feed:
       path: /rss.xml
       format: rss
       number: 10
-    permalink:
-      path: '/:title/'
 color:
   saturation: 1
-  brandStrength: 0.7361981319263577
+  brandStrength: 1
   lightness: 0.3595745
   brandColors:
-    - '#000000'
-    - '#4a0017'
-    - '#990831'
-    - '#c22540'
-    - '#fcb78f'
+    - '#0D0E0C'
+    - '#5B5D54'
+    - '#F2F2E9'
+    - '#9A9C90'
+    - '#FCFA6D'
   rhythmicContrast: 0.819149
 cta:
   bucket: null
@@ -31,8 +31,8 @@ analytics:
   twitter: null
   google: null
   facebook: null
-favicon: null
 name: Levi Wilder - Writer/ Director/ Editor - Filmmaker
+favicon: null
 opengraph:
   image: null
   type: null
