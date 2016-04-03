@@ -30,11 +30,11 @@ analytics:
   twitter: null
   google: null
   facebook: null
-favicon: null
 name: Levi Wilder - Writer/ Director/ Editor - Filmmaker
+favicon: null
 opengraph:
   image: null
   type: null
   appId: null
 typography_spectrum: 1
-layout_spectrum: 0
+layout_spectrum: 1
