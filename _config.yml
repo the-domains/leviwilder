@@ -1,41 +1,41 @@
-title: Levi Wilder - Writer/ Director/ Editor - Filmmaker
-purpose: []
+typography_spectrum: 1
+opengraph:
+  image: null
+  type: null
+  appId: null
 collections:
   - index:
       path: /
       number: 15
       paginate: true
       navigable: true
+    permalink:
+      path: '/:title/'
     feed:
       path: /rss.xml
       format: rss
       number: 10
-    permalink:
-      path: '/:title/'
+layout_spectrum: 0
+title: Levi Wilder - Writer/ Director/ Editor - Filmmaker
+purpose: []
 color:
   saturation: 1
   brandStrength: 1
-  lightness: 0.08510638
+  rhythmicContrast: 1
   brandColors:
     - '#412E1E'
     - '#D14A47'
     - '#EC716A'
     - '#736F6C'
     - '#E19575'
-  rhythmicContrast: 1
+  lightness: 0.08510638
 cta:
   bucket: null
   version: null
   domain: null
+favicon: null
 analytics:
   twitter: null
   google: null
   facebook: null
-favicon: null
 name: Levi Wilder - Writer/ Director/ Editor - Filmmaker
-opengraph:
-  image: null
-  type: null
-  appId: null
-typography_spectrum: 1
-layout_spectrum: 0
